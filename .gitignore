@@ -1,0 +1,11 @@
+# My list ignore
+
+# idea
+.idea/
+
+# virtualenv
+/venv
+
+# Django stuff:
+*.log
+local_settings.py
